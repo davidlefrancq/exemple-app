@@ -8,7 +8,6 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * To Do List ([5d9bb58](https://github.com/davidlefrancq/exemple-app/commit/5d9bb5855c6e06ef5d5dc9c73e95c978415e402b))
-* To Do List ([a0b3d18](https://github.com/davidlefrancq/exemple-app/commit/a0b3d180f6e93b26f174f58297e734d6faa7230d))
 
 ### [0.1.1](https://github.com/davidlefrancq/exemple-app/compare/v0.1.0...v0.1.1) (2022-03-23)
 
